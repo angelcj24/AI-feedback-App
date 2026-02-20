@@ -21,8 +21,7 @@
     "vite": "^4.0.0",
     "@vitejs/plugin-react": "^4.0.0"
   },
-  "devDependencies": {},
-  "engines": {
-    "node": "18.x"
-  }
+"devDependencies": {
+  "vite": "^4.0.0",
+  ...
 }
