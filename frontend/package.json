@@ -2,9 +2,11 @@
   "name": "feedback-frontend",
   "version": "1.0.0",
   "type": "module",
+  "homepage": "https://angelcj24.github.io/AI-feedback-App",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "predeploy": "npm run build",
     "preview": "vite preview"
   },
   "dependencies": {
